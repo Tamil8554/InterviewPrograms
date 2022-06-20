@@ -15,6 +15,7 @@ public class AmstrongNumber_Check {
 			a=a/10;
 		}
 		if (n==j) {
+			System.out.println("");
 			System.out.println("Entered Number is an Amstrong Number");
 		} else {
 			 System.out.println("Entered number is not an Amstrong Number"); 
